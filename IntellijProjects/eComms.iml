@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4" />
-// print the status of the Git Repository
+// git status = print the status of the Git Repository
+// git init = initialises the Git Repository
+// git config --global user.name "The Admiral"
+// git config --global user.email gid.lew.13@gmail.com
